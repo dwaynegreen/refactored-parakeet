@@ -1,0 +1,15 @@
+C:\Users\dgreen\Documents\Learning\Courses\Coding With Mosh\UnitTesting\source-code-starter\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\TestNinja.UnitTests.dll
+C:\Users\dgreen\Documents\Learning\Courses\Coding With Mosh\UnitTesting\source-code-starter\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\TestNinja.UnitTests.pdb
+C:\Users\dgreen\Documents\Learning\Courses\Coding With Mosh\UnitTesting\source-code-starter\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\dgreen\Documents\Learning\Courses\Coding With Mosh\UnitTesting\source-code-starter\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\TestNinja.dll
+C:\Users\dgreen\Documents\Learning\Courses\Coding With Mosh\UnitTesting\source-code-starter\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\EntityFramework.dll
+C:\Users\dgreen\Documents\Learning\Courses\Coding With Mosh\UnitTesting\source-code-starter\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dgreen\Documents\Learning\Courses\Coding With Mosh\UnitTesting\source-code-starter\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\TestNinja.pdb
+C:\Users\dgreen\Documents\Learning\Courses\Coding With Mosh\UnitTesting\source-code-starter\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\TestNinja.dll.config
+C:\Users\dgreen\Documents\Learning\Courses\Coding With Mosh\UnitTesting\source-code-starter\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\dgreen\Documents\Learning\Courses\Coding With Mosh\UnitTesting\source-code-starter\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\EntityFramework.xml
+C:\Users\dgreen\Documents\Learning\Courses\Coding With Mosh\UnitTesting\source-code-starter\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dgreen\Documents\Learning\Courses\Coding With Mosh\UnitTesting\source-code-starter\source-code-starter\TestNinja\TestNinja.UnitTests\obj\Debug\TestNinja.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\dgreen\Documents\Learning\Courses\Coding With Mosh\UnitTesting\source-code-starter\source-code-starter\TestNinja\TestNinja.UnitTests\obj\Debug\TestNinja.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\dgreen\Documents\Learning\Courses\Coding With Mosh\UnitTesting\source-code-starter\source-code-starter\TestNinja\TestNinja.UnitTests\obj\Debug\TestNinja.UnitTests.dll
+C:\Users\dgreen\Documents\Learning\Courses\Coding With Mosh\UnitTesting\source-code-starter\source-code-starter\TestNinja\TestNinja.UnitTests\obj\Debug\TestNinja.UnitTests.pdb
